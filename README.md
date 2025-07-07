@@ -30,7 +30,7 @@ API feita com FastAPI e PostgreSQL para controle de estoque com as funcionalidad
 
 1. Banco de Dados:
 
-Para inicializar o banco, use o script SQL incluso no arquivo `Sistema_estoque` dentro do pgAdmin ou psql.
+Para inicializar o banco, use o script SQL incluso no arquivo `template_SQL.txt` dentro de uma nova base de dados no pgAdmin ou psql.
 
 
 2. Clone o repositório:
