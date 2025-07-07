@@ -1,0 +1,17 @@
+# Arquivos de ambiente
+.env
+
+# Pastas do Python
+__pycache__/
+*.pyc
+
+# PDF temporário
+*.pdf
+
+# Pasta do VSCode, PyCharm, etc.
+.vscode/
+.idea/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
