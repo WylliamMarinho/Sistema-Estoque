@@ -50,6 +50,6 @@ pip install -r requirements.txt
 
 6. Rode a API no terminal:
 
-uvicorn main:app --reload
+uvicorn app.main:app --reload
 
 7. Acesse o Sistema em: http://localhost:8000/docs
